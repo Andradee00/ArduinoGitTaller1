@@ -1,7 +1,7 @@
 #include "BuzzerControl.h"
 
 const int PinB = 7; // Cambio a PIN 7
-// Buzzer conectado al pin 4
+// Buzzer conectado al pin 77777
 BuzzerControl buzzer(PinB);
 
 void setup() {
